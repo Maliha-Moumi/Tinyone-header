@@ -1,0 +1,12 @@
+font family-
+font-family: 'PT Sans', sans-serif;
+
+
+color: header text-#010101
+slider p #555555
+ash #898989
+yellow #fcdb00
+header-
+menu- xxl/xl/lg    md     sm
+        22         22     22
+        22         20     20
